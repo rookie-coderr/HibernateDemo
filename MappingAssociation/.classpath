@@ -22,7 +22,10 @@
 	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/jaxb-runtime-2.3.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/jboss-logging-3.4.2.Final.jar"/>
 	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/log4j-1.2.17.jar"/>
 	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/mysql-connector-java-8.0.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/slf4j-log4j12-1.6.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/stax-ex-1.8.jar"/>
 	<classpathentry kind="lib" path="C:/Users/riagrawal/Desktop/javaPractice/HibernateDemo/hibernate-release-5.2.3.6 lib/txw2-2.3.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
